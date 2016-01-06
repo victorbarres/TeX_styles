@@ -1,1 +1,3 @@
-# LaTeX styles
+# TeX styles
+
+TeX styles that I wrote when I couldn't find them anywhere...
